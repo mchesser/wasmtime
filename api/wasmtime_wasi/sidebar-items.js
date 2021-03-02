@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["snapshots",""]],"struct":[["Error","The `Error` type, a wrapper around a dynamic error type."],["Wasi","An instantiated instance of all available wasi exports. Presently includes both the \"preview1\" snapshot and the \"unstable\" (preview0) snapshot."],["WasiCtx",""],["WasiCtxBuilder",""]],"trait":[["WasiDir",""],["WasiFile",""]]});
